@@ -2,11 +2,14 @@
 ![graf](graf.png)
 
 # Pytania
-
-*
-*
-*
-*
+1. Jak zmieniała się w czasie średnia długość życia w rozróżnieniu na płeć w poszczególnych krajach?
+2. W których krajach i których kwartałach była największa dysproporcja pomiędzy kobietami, a mężczyznami?
+3. W którch krajach społeczeństwo najardziej się starzeje ?
+4. Czy jest korelacja ilości łóżek oraz nakładów na służbę zdrowia do długości życia ? Jeśli tak to w których krajach?
+5. W których kwartałach w każdym kraju był największy spadek ludności ? (np wojny)
+6. W których krajach jest najwięcej nastolatków (z podziałem na płeć) ?
+7. Ile jest na świecie analfabetów (z podziałem na lata) ?
+8. Czy jest korelacja ilości analfabetów (procentowo) do długości życia ?
 
 # Dane (dla każdego kraju, od 1960 do 2015)
 * `Gender_StatsData.csv` (grupa wiekowa wyliczna)
