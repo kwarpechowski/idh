@@ -8,12 +8,13 @@
 *
 *
 
-# Dane
-* `Gender_StatsData.csv` (dla każdego kraju, od 1960 do 2015)
+# Dane (dla każdego kraju, od 1960 do 2015)
+* `Gender_StatsData.csv` (grupa wiekowa wyliczna)
   * Life expectancy at birth, male (years) - `SP.DYN.LE00.MA.IN`
   * Life expectancy at birth, female (years) - `SP.DYN.LE00.FE.IN`
-* `EdStatsData.csv`
-  * xxx
+* `EdStatsData.csv` - wyniki rzadkie - w niektórych latach.
+  * Adult illiterate population, 15+ years, female (number) - `UIS.LP.AG15T99.F`
+  * Adult illiterate population, 15+ years, male (number)	- `UIS.LP.AG15T99.M`
 * `HNP_StatsData.csv`
   * Female population 00-04 - `SP.POP.0004.FE`
   * Female population 05-09	-`SP.POP.0509.FE`
