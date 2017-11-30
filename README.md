@@ -50,4 +50,7 @@
   * Male population 70-74	- `SP.POP.7074.MA`
   * Male population 75-79	- `SP.POP.7579.MA`
   * Male population 80+	- `SP.POP.80UP.MA`
+  
+  * Hospital beds (per 1,000 people)	- `SH.MED.BEDS.ZS` (dane rzadkie)
+  * Health expenditure per capita (current US$)	 - `SH.XPD.PCAP`
 
