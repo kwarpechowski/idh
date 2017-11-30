@@ -1,1 +1,2 @@
 # idh
+![graf](graf.png)
