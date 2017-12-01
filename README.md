@@ -10,6 +10,8 @@
 6. W których krajach jest najwięcej nastolatków (z podziałem na płeć) ?
 7. Ile jest na świecie analfabetów (z podziałem na lata) ?
 8. Czy jest korelacja ilości analfabetów (procentowo) do długości życia ?
+9. Kraje z najlepszym bilansem długość życia/wydatki na opiekę zdrowotną
+10. Kraje z najgorszym bilansem długość życia/wydatki na opiekę zdrowotną
 
 # Dane (dla każdego kraju, od 1960 do 2015)
 * `Gender_StatsData.csv` (grupa wiekowa wyliczna)
